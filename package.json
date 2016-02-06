@@ -1,0 +1,19 @@
+{
+  "name": "banteragario",
+  "version": "1.0.0",
+  "description": "banter hack themed agar.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BevisHalperry/banteragario.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BevisHalperry/banteragario/issues"
+  },
+  "homepage": "https://github.com/BevisHalperry/banteragario#readme"
+}
